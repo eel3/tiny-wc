@@ -19,7 +19,7 @@ Set up
 ------
 
 1. Install Flex.
-  * On Windows, we recommend you install Flex from Cygwin.
+    * On Windows, we recommend you install Flex from Cygwin.
 2. Execute make(1) or NMAKE.
 3. Put tiny-wc in a directory registered in PATH.
 
