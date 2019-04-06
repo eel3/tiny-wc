@@ -11,7 +11,7 @@ zlib License.
 Target environments
 -------------------
 
-Windows, Linux, Mac OS X.
+Windows, Linux, macOS.
 
 tiny-wc is written in flex, and so probably works fine on other OS.
 
