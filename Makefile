@@ -1,12 +1,12 @@
 # @brief   tiny-wc Makefile for Unix like environment.
 # @author  eel3
-# @date    2015/05/12
+# @date    2022-02-12
 #
 # @note
 # - GCC 4.6.3 on Ubuntu 12.04.4 LTS 32bit
 
 app        := tiny-wc
-CFLAGS     += -Wall -ansi -pedantic
+CFLAGS     += -Wall -ansi -pedantic -Wno-unused-function -Wno-implicit-function-declaration
 
 LEX        := flex
 
